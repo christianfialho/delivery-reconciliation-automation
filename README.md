@@ -31,6 +31,35 @@ Each night, dozens of packages were flagged as missing final delivery confirmati
 
 ---
 
+## Screenshots
+
+### Nightly Validation Workflow
+Automated validation of delivery exceptions, replacing a manual multi-hour process.
+
+![Nightly Validation](screenshots/nightly.jpg)
+
+### Morning Ops Workflow
+Batch enrichment and research tools supporting follow-up and customer contact.
+
+![Morning Ops](screenshots/morning.jpg)
+
+### Outstanding Exception Tracking
+Centralized tracking of unresolved delivery exceptions across a rolling 30-day window.
+
+![Outstanding Tracking](screenshots/outstanding.jpg)
+
+### Contractor Data Input (Fallback Tool)
+Backup form for importing and parsing driver data when automated imports were unavailable.
+
+![Contractor Input Form](screenshots/driver_form.jpg)
+
+### Management Summary View
+Aggregated trends and response-time summaries by contractor.
+
+![Trends Summary](screenshots/trends.jpg)
+
+---
+
 ## Technical Stack
 
 - Excel (.xlsm)
