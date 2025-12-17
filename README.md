@@ -6,6 +6,17 @@ The project demonstrates **automation engineering**, **structured data extractio
 
 ---
 
+## Table of Contents
+- [Problem](#problem)
+- [What the System Does](#what-the-system-does)
+- [Impact](#impact)
+- [Screenshots](#screenshots)
+- [Technical Stack](#technical-stack)
+- [Case Study](#case-study)
+- [Notes](#notes)
+
+---
+
 ## Problem
 
 Each night, dozens of packages were flagged as missing final delivery confirmation. Ops Admins were responsible for validating these exceptions, researching tracking histories across multiple internal tools, preparing follow-up delivery records, and tracking resolution over time. This process typically required **1–3 hours** of focused manual effort per night.
@@ -80,5 +91,5 @@ A detailed breakdown of the workflow, automation design, and technical implement
 ## Notes
 
 - Built for internal use; proprietary systems are not accessible outside the FedEx network
-- Included workbooks are cleaned and provided for structural reference only
+- Included workbook is cleaned and provided for structural reference only
 - Screenshots are used to illustrate layout and workflow where live interaction is not possible
