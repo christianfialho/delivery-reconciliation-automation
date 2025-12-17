@@ -15,9 +15,10 @@ A modernized Excel/VBA system that replaced a multi-hour nightly workflow for va
 - An integrated Excel automation toolkit that streamlined the entire code 85 workflow through:
 - Automated data ingestion + validation
 - Tracking history retrieval and interpretation
-- Template-based delivery form automation with dynamically generated barcodes
+- Template-based delivery form* automation with dynamically generated barcodes
 - Workflow management for 30-day follow-up
 - Automated reporting and reconciliation lifecycle tracking tools
+> \* The handsheet format itself was an official company form; the work here focused on automating population, duplication, and lifecycle handling of these standardized templates rather than designing the form layout.
 
 ## Key Automations
 ### 1. Tracking & Validation Automation
