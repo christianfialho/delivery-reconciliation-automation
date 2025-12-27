@@ -1,8 +1,8 @@
 # Delivery Reconciliation Automation
 
-This repository documents an internal automation system I built to streamline delivery exception reconciliation at a FedEx Ground station. The system replaced a manual, multi-hour administrative workflow with structured automation for tracking validation, follow-up, and reporting.
+This repository contains an anonymized example of an internal Excel-based automation system designed to replace a manual, multi-hour delivery exception reconciliation workflow. The system consolidated data from multiple sources, applied structured validation and tracking logic, and supported follow-up and reporting without disrupting existing operations.
 
-The project demonstrates **automation engineering**, **structured data extraction and transformation**, and **operational tooling design**, with an emphasis on reducing administrative overhead while fitting into existing workflows.
+The project focuses on building **practical, error-tolerant operational tooling** that reduces administrative overhead, improves traceability, and remains usable in real-world workflows where inputs are imperfect and processes evolve.
 
 ---
 
